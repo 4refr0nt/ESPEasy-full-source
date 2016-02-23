@@ -1,0 +1,9 @@
+[submodule "ESPEasyPluginPlayground"]
+	path = ESPEasyPluginPlayground
+	url = https://github.com/ESP8266nu/ESPEasyPluginPlayground
+[submodule "ESPEasy"]
+	path = ESPEasy
+	url = https://github.com/ESP8266nu/ESPEasy
+[submodule "ESPEasyUI"]
+	path = ESPEasyUI
+	url = https://github.com/alexsuslov/ESPEasyUI
